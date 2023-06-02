@@ -1,0 +1,30 @@
+body{
+	color: #002463;
+	text-align: center;
+	background-color: whitesmoke;
+	background-image: url("bg.png");
+	background-size: cover;
+}
+.frmd{
+	background-color: rgba(255,255,255,0.7);
+	border: none;
+	border-radius: 15px;
+	display: block;
+	width: 25%;
+	margin: auto;
+	padding: 50px;
+	box-shadow: rgba(0, 0, 0, 0.5) 0px 5px 15px;
+}
+		h3{
+			color: #3E424B; font-weight: 800;
+		}
+		label{
+			font-size: 20px;
+		}
+		input{
+			border: none;
+			border-radius: 5px;
+			width: 80%;
+			padding: 3%;
+			box-shadow: rgba(0, 0, 0, 0.5) 0px 5px 15px;
+		}

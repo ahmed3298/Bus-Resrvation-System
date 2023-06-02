@@ -1,0 +1,73 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	color: #002463;
+	text-align: center;
+	background-color: whitesmoke;
+	background-image: url("bg.png");
+	background-size: cover;
+}
+.upper-nav{
+	width: 100%;
+	padding: 10px;
+	background-color: lightgrey;
+}
+.uan{
+	font-size: 20px;
+	font-weight: 700;
+	color: #454545;
+	margin-left: 25px;
+	width: auto;
+	display: inline;
+}
+.uan:hover{
+	text-decoration: none;
+}
+#navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+		background-color:#A4DAED;
+    }
+
+.bg-box{
+	width: 100%;
+	height: auto;
+	background-image: url("bg.png");
+	background-size: cover;
+}
+h1{
+	font-weight: 800;
+	font-family: "Oswald Regular Bold";
+	margin-top: 40%;
+	color: #000546;
+	text-shadow: 1px 1px 10px black;
+}
+.frmd{
+	background-color: rgba(0,0,0,0.50);
+	border: none;
+	border-radius: 15px;
+	display: block;
+	width: 90%;
+	margin: auto;
+	padding: 50px;
+	box-shadow: rgba(0, 0, 0, 0.5) 0px 5px 15px;
+	
+}
+		h2{
+			color: #3E424B; font-weight: 800;
+		}
+		label{
+			color: #060025;
+			font-size: 20px;
+			text-shadow: 0px 0px 15px white;
+		}
+		input, .dropdown{
+			border: none;
+			border-radius: 5px;
+			width: 80%;
+			padding: 3%;
+			box-shadow: rgba(0, 0, 0, 0.5) 0px 5px 15px;
+		}
+.dropdown{
+	
+}
